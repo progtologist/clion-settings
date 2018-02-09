@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="clang-format" description="Auto format file using clang-fomat" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="clang-format-5.0" />
+      <option name="PARAMETERS" value="-i -style=Google $FileName$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+</toolSet>
