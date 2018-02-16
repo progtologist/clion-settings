@@ -8,7 +8,14 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="IntroduceField" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="ReplaceInPath" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="Tool_External Tools_clang-format">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
