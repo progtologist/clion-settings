@@ -17,6 +17,8 @@
     <option name="ALIGN_INIT_LIST_IN_COLUMNS" value="false" />
     <option name="SPACE_BEFORE_PROTOCOLS_BRACKETS" value="false" />
     <option name="KEEP_BLANK_LINES_BEFORE_END" value="1" />
+    <option name="INSERT_VIRTUAL_WITH_OVERRIDE" value="true" />
+    <option name="ADD_BRIEF_TAG" value="true" />
   </Objective-C>
   <Objective-C-extensions>
     <file />
@@ -45,10 +47,7 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
-    <option name="BLANK_LINES_AFTER_IMPORTS" value="0" />
-    <option name="BLANK_LINES_AROUND_CLASS" value="0" />
-    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
-    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="false" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="1" />
